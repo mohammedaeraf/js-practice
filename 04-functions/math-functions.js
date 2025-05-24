@@ -1,8 +1,6 @@
 console.log("Math functions are defined in this file.");
 
-// Demonstrating top 6 Math functions in JavaScript
-
-// 1. Math.abs() - Returns the absolute value
+// 1. Math.abs() - Returns the absolute value (makes value positive)
 console.log("Math.abs(-7):", Math.abs(-7)); // Output: 7
 
 // 2. Math.round() - Rounds to the nearest integer
